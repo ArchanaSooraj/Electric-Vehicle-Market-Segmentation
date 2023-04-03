@@ -1,1 +1,1 @@
-# Electronic-Vehicle-Market-Segmentation
+# Electric-Vehicle-Market-Segmentation
